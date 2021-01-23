@@ -1,4 +1,4 @@
-package sort_algorithm;
+package common;
 
 public class ArrayPrinter {
 
@@ -15,5 +15,7 @@ public class ArrayPrinter {
     public static void printArray(int[] data) {
         printArray("", data);
     }
+
+
 
 }
